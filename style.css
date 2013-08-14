@@ -4,9 +4,17 @@ html, body {
 	}
 	
 #map{
-top: 125px;
 margin-right: auto; 
 margin-left: auto; 
 width: 900px; 
 height: 600px;
+}
+
+
+#Header {
+    margin-left: auto;
+    margin-right: auto;
+    width: 900px;
+	font-family: "Helvetica Neue",Arial,Helvetica,sans-serif;
+    font-size: 75%;
 }
